@@ -1,0 +1,276 @@
+02/21/2016 09:44:05 PM - PdfToPptx - DEBUG - a.pdf 
+ a.pptx
+02/21/2016 09:44:05 PM - PdfToPptx - INFO - Calling the main execution for ppt conversion
+02/21/2016 09:44:05 PM - PdfToPptx - INFO - Called pdf_splitter
+02/21/2016 09:44:05 PM - PdfToPptx - INFO - Checking file - a_1.pdf 
+02/21/2016 09:44:08 PM - PdfToPptx - INFO - Image convert passed - a_1.jpg 
+02/21/2016 09:44:08 PM - PdfToPptx - INFO - Checking file - a_2.pdf 
+02/21/2016 09:44:10 PM - PdfToPptx - INFO - Image convert passed - a_2.jpg 
+02/21/2016 09:44:10 PM - PdfToPptx - INFO - Checking file - a_3.pdf 
+02/21/2016 09:44:13 PM - PdfToPptx - INFO - Image convert passed - a_3.jpg 
+02/21/2016 09:44:13 PM - PdfToPptx - INFO - Checking file - a_4.pdf 
+02/21/2016 09:44:16 PM - PdfToPptx - INFO - Image convert passed - a_4.jpg 
+02/21/2016 09:44:16 PM - PdfToPptx - INFO - Checking file - a_5.pdf 
+02/21/2016 09:44:20 PM - PdfToPptx - INFO - Image convert passed - a_5.jpg 
+02/21/2016 09:44:20 PM - PdfToPptx - INFO - Checking file - a_6.pdf 
+02/21/2016 09:44:23 PM - PdfToPptx - INFO - Image convert passed - a_6.jpg 
+02/21/2016 09:44:23 PM - PdfToPptx - INFO - Checking file - a_7.pdf 
+02/21/2016 09:44:27 PM - PdfToPptx - INFO - Image convert passed - a_7.jpg 
+02/21/2016 09:44:27 PM - PdfToPptx - INFO - Checking file - a_8.pdf 
+02/21/2016 09:44:31 PM - PdfToPptx - INFO - Image convert passed - a_8.jpg 
+02/21/2016 09:44:31 PM - PdfToPptx - INFO - Checking file - a_9.pdf 
+02/21/2016 09:44:34 PM - PdfToPptx - INFO - Image convert passed - a_9.jpg 
+02/21/2016 09:44:34 PM - PdfToPptx - INFO - Checking file - a_10.pdf 
+02/21/2016 09:44:37 PM - PdfToPptx - INFO - Image convert passed - a_10.jpg 
+02/21/2016 09:44:37 PM - PdfToPptx - INFO - Called create_ppt
+02/21/2016 09:44:37 PM - PdfToPptx - DEBUG - a_1.jpg
+02/21/2016 09:44:37 PM - PdfToPptx - DEBUG - a_2.jpg
+02/21/2016 09:44:37 PM - PdfToPptx - DEBUG - a_3.jpg
+02/21/2016 09:44:37 PM - PdfToPptx - DEBUG - a_4.jpg
+02/21/2016 09:44:37 PM - PdfToPptx - DEBUG - a_5.jpg
+02/21/2016 09:44:37 PM - PdfToPptx - DEBUG - a_6.jpg
+02/21/2016 09:44:37 PM - PdfToPptx - DEBUG - a_7.jpg
+02/21/2016 09:44:38 PM - PdfToPptx - DEBUG - a_8.jpg
+02/21/2016 09:44:38 PM - PdfToPptx - DEBUG - a_9.jpg
+02/21/2016 09:44:38 PM - PdfToPptx - DEBUG - a_10.jpg
+02/21/2016 09:44:38 PM - PdfToPptx - INFO - Done ppt conversion
+02/22/2016 10:00:02 PM - PdfToPptx - DEBUG - a.pdf 
+ a.pptx
+02/22/2016 10:00:02 PM - PdfToPptx - INFO - Calling the main execution for ppt conversion
+02/22/2016 10:00:02 PM - PdfToPptx - INFO - Called pdf_splitter
+02/22/2016 10:00:02 PM - PdfToPptx - INFO - Checking file - a_1.pdf 
+02/22/2016 10:00:18 PM - PdfToPptx - INFO - Image convert passed - a_1.jpg 
+02/22/2016 10:00:18 PM - PdfToPptx - INFO - Checking file - a_2.pdf 
+02/22/2016 10:00:36 PM - PdfToPptx - INFO - Image convert passed - a_2.jpg 
+02/22/2016 10:00:36 PM - PdfToPptx - INFO - Checking file - a_3.pdf 
+02/22/2016 10:00:57 PM - PdfToPptx - INFO - Image convert passed - a_3.jpg 
+02/22/2016 10:00:57 PM - PdfToPptx - INFO - Checking file - a_4.pdf 
+02/22/2016 10:01:17 PM - PdfToPptx - INFO - Image convert passed - a_4.jpg 
+02/22/2016 10:01:17 PM - PdfToPptx - INFO - Checking file - a_5.pdf 
+02/22/2016 10:01:35 PM - PdfToPptx - INFO - Image convert passed - a_5.jpg 
+02/22/2016 10:01:35 PM - PdfToPptx - INFO - Checking file - a_6.pdf 
+02/22/2016 10:01:51 PM - PdfToPptx - INFO - Image convert passed - a_6.jpg 
+02/22/2016 10:01:51 PM - PdfToPptx - INFO - Checking file - a_7.pdf 
+02/22/2016 10:02:03 PM - PdfToPptx - INFO - Image convert passed - a_7.jpg 
+02/22/2016 10:02:03 PM - PdfToPptx - INFO - Checking file - a_8.pdf 
+02/22/2016 10:02:16 PM - PdfToPptx - INFO - Image convert passed - a_8.jpg 
+02/22/2016 10:02:16 PM - PdfToPptx - INFO - Checking file - a_9.pdf 
+02/22/2016 10:02:29 PM - PdfToPptx - INFO - Image convert passed - a_9.jpg 
+02/22/2016 10:02:29 PM - PdfToPptx - INFO - Checking file - a_10.pdf 
+02/22/2016 10:02:41 PM - PdfToPptx - INFO - Image convert passed - a_10.jpg 
+02/22/2016 10:02:41 PM - PdfToPptx - INFO - Called create_ppt
+02/22/2016 10:02:41 PM - PdfToPptx - DEBUG - a_1.jpg
+02/22/2016 10:02:41 PM - PdfToPptx - DEBUG - a_2.jpg
+02/22/2016 10:02:41 PM - PdfToPptx - DEBUG - a_3.jpg
+02/22/2016 10:02:41 PM - PdfToPptx - DEBUG - a_4.jpg
+02/22/2016 10:02:41 PM - PdfToPptx - DEBUG - a_5.jpg
+02/22/2016 10:02:41 PM - PdfToPptx - DEBUG - a_6.jpg
+02/22/2016 10:02:41 PM - PdfToPptx - DEBUG - a_7.jpg
+02/22/2016 10:02:41 PM - PdfToPptx - DEBUG - a_8.jpg
+02/22/2016 10:02:41 PM - PdfToPptx - DEBUG - a_9.jpg
+02/22/2016 10:02:42 PM - PdfToPptx - DEBUG - a_10.jpg
+02/22/2016 10:02:42 PM - PdfToPptx - INFO - Done ppt conversion
+02/22/2016 10:03:30 PM - PdfToPptx - DEBUG - a.pdf 
+ a.pptx
+02/22/2016 10:03:30 PM - PdfToPptx - INFO - Calling the main execution for ppt conversion
+02/22/2016 10:03:30 PM - PdfToPptx - INFO - Called pdf_splitter
+02/22/2016 10:03:30 PM - PdfToPptx - INFO - Checking file - a_1.pdf 
+02/22/2016 10:03:41 PM - PdfToPptx - INFO - Image convert passed - a_1.jpg 
+02/22/2016 10:03:41 PM - PdfToPptx - INFO - Checking file - a_2.pdf 
+02/22/2016 10:03:53 PM - PdfToPptx - INFO - Image convert passed - a_2.jpg 
+02/22/2016 10:03:54 PM - PdfToPptx - INFO - Checking file - a_3.pdf 
+02/22/2016 10:04:06 PM - PdfToPptx - INFO - Image convert passed - a_3.jpg 
+02/22/2016 10:04:06 PM - PdfToPptx - INFO - Checking file - a_4.pdf 
+02/22/2016 10:04:26 PM - PdfToPptx - INFO - Image convert passed - a_4.jpg 
+02/22/2016 10:04:26 PM - PdfToPptx - INFO - Checking file - a_5.pdf 
+02/22/2016 10:04:39 PM - PdfToPptx - INFO - Image convert passed - a_5.jpg 
+02/22/2016 10:04:39 PM - PdfToPptx - INFO - Checking file - a_6.pdf 
+02/22/2016 10:04:53 PM - PdfToPptx - INFO - Image convert passed - a_6.jpg 
+02/22/2016 10:04:53 PM - PdfToPptx - INFO - Checking file - a_7.pdf 
+02/22/2016 10:05:07 PM - PdfToPptx - INFO - Image convert passed - a_7.jpg 
+02/22/2016 10:05:07 PM - PdfToPptx - INFO - Checking file - a_8.pdf 
+02/22/2016 10:05:22 PM - PdfToPptx - INFO - Image convert passed - a_8.jpg 
+02/22/2016 10:05:22 PM - PdfToPptx - INFO - Checking file - a_9.pdf 
+02/22/2016 10:05:37 PM - PdfToPptx - INFO - Image convert passed - a_9.jpg 
+02/22/2016 10:05:37 PM - PdfToPptx - INFO - Checking file - a_10.pdf 
+02/22/2016 10:05:53 PM - PdfToPptx - INFO - Image convert passed - a_10.jpg 
+02/22/2016 10:05:53 PM - PdfToPptx - INFO - Called create_ppt
+02/22/2016 10:05:53 PM - PdfToPptx - DEBUG - a_1.jpg
+02/22/2016 10:05:53 PM - PdfToPptx - DEBUG - a_2.jpg
+02/22/2016 10:05:53 PM - PdfToPptx - DEBUG - a_3.jpg
+02/22/2016 10:05:53 PM - PdfToPptx - DEBUG - a_4.jpg
+02/22/2016 10:05:54 PM - PdfToPptx - DEBUG - a_5.jpg
+02/22/2016 10:05:54 PM - PdfToPptx - DEBUG - a_6.jpg
+02/22/2016 10:05:54 PM - PdfToPptx - DEBUG - a_7.jpg
+02/22/2016 10:05:54 PM - PdfToPptx - DEBUG - a_8.jpg
+02/22/2016 10:05:55 PM - PdfToPptx - DEBUG - a_9.jpg
+02/22/2016 10:05:55 PM - PdfToPptx - DEBUG - a_10.jpg
+02/22/2016 10:05:55 PM - PdfToPptx - INFO - Done ppt conversion
+02/22/2016 10:12:31 PM - PdfToPptx - DEBUG - a.pdf 
+ a.pdf
+02/22/2016 10:12:31 PM - PdfToPptx - INFO - Calling the main execution for ppt conversion
+02/22/2016 10:12:31 PM - PdfToPptx - INFO - Called pdf_splitter
+02/22/2016 10:12:31 PM - PdfToPptx - INFO - Checking file - a_1.pdf 
+02/22/2016 10:12:34 PM - PdfToPptx - INFO - Image convert passed - a_1.jpg 
+02/22/2016 10:12:34 PM - PdfToPptx - INFO - Checking file - a_2.pdf 
+02/22/2016 10:12:38 PM - PdfToPptx - INFO - Image convert passed - a_2.jpg 
+02/22/2016 10:12:38 PM - PdfToPptx - INFO - Checking file - a_3.pdf 
+02/22/2016 10:12:42 PM - PdfToPptx - INFO - Image convert passed - a_3.jpg 
+02/22/2016 10:12:42 PM - PdfToPptx - INFO - Checking file - a_4.pdf 
+02/22/2016 10:12:49 PM - PdfToPptx - INFO - Image convert passed - a_4.jpg 
+02/22/2016 10:12:49 PM - PdfToPptx - INFO - Checking file - a_5.pdf 
+02/22/2016 10:12:53 PM - PdfToPptx - INFO - Image convert passed - a_5.jpg 
+02/22/2016 10:12:53 PM - PdfToPptx - INFO - Checking file - a_6.pdf 
+02/22/2016 10:12:58 PM - PdfToPptx - INFO - Image convert passed - a_6.jpg 
+02/22/2016 10:12:58 PM - PdfToPptx - INFO - Checking file - a_7.pdf 
+02/22/2016 10:13:04 PM - PdfToPptx - INFO - Image convert passed - a_7.jpg 
+02/22/2016 10:13:04 PM - PdfToPptx - INFO - Checking file - a_8.pdf 
+02/22/2016 10:13:08 PM - PdfToPptx - INFO - Image convert passed - a_8.jpg 
+02/22/2016 10:13:09 PM - PdfToPptx - INFO - Checking file - a_9.pdf 
+02/22/2016 10:13:13 PM - PdfToPptx - INFO - Image convert passed - a_9.jpg 
+02/22/2016 10:13:13 PM - PdfToPptx - INFO - Checking file - a_10.pdf 
+02/22/2016 10:13:19 PM - PdfToPptx - INFO - Image convert passed - a_10.jpg 
+02/22/2016 10:13:19 PM - PdfToPptx - INFO - Called create_ppt
+02/22/2016 10:13:19 PM - PdfToPptx - DEBUG - a_1.jpg
+02/22/2016 10:13:20 PM - PdfToPptx - DEBUG - a_2.jpg
+02/22/2016 10:13:20 PM - PdfToPptx - DEBUG - a_3.jpg
+02/22/2016 10:13:20 PM - PdfToPptx - DEBUG - a_4.jpg
+02/22/2016 10:13:20 PM - PdfToPptx - DEBUG - a_5.jpg
+02/22/2016 10:13:20 PM - PdfToPptx - DEBUG - a_6.jpg
+02/22/2016 10:13:21 PM - PdfToPptx - DEBUG - a_7.jpg
+02/22/2016 10:13:21 PM - PdfToPptx - DEBUG - a_8.jpg
+02/22/2016 10:13:21 PM - PdfToPptx - DEBUG - a_9.jpg
+02/22/2016 10:13:21 PM - PdfToPptx - DEBUG - a_10.jpg
+02/22/2016 10:13:21 PM - PdfToPptx - INFO - Done ppt conversion
+02/22/2016 10:14:48 PM - PdfToPptx - DEBUG - a.pdf 
+ a.pdf
+02/22/2016 10:14:48 PM - PdfToPptx - INFO - Calling the main execution for ppt conversion
+02/22/2016 10:14:48 PM - PdfToPptx - INFO - Called pdf_splitter
+02/22/2016 10:15:06 PM - PdfToPptx - DEBUG - a.pdf 
+ a.pdf
+02/22/2016 10:15:06 PM - PdfToPptx - INFO - Calling the main execution for ppt conversion
+02/22/2016 10:15:06 PM - PdfToPptx - INFO - Called pdf_splitter
+02/22/2016 10:15:23 PM - PdfToPptx - DEBUG - a.pdf 
+ a.pdf
+02/22/2016 10:15:23 PM - PdfToPptx - INFO - Calling the main execution for ppt conversion
+02/22/2016 10:15:23 PM - PdfToPptx - INFO - Called pdf_splitter
+02/22/2016 10:20:21 PM - PdfToPptx - DEBUG - a.pdf 
+ a.pdf
+02/22/2016 10:20:21 PM - PdfToPptx - INFO - Calling the main execution for ppt conversion
+02/22/2016 10:20:21 PM - PdfToPptx - INFO - Called pdf_splitter
+02/22/2016 10:28:28 PM - PdfToPptx - DEBUG - a.pdf 
+ a.pdf
+02/22/2016 10:28:28 PM - PdfToPptx - INFO - Calling the main execution for ppt conversion
+02/22/2016 10:28:28 PM - PdfToPptx - INFO - Called pdf_splitter
+02/22/2016 10:29:35 PM - PdfToPptx - DEBUG - a.pdf 
+ a.pdf
+02/22/2016 10:29:35 PM - PdfToPptx - INFO - Calling the main execution for ppt conversion
+02/22/2016 10:29:35 PM - PdfToPptx - INFO - Called pdf_splitter
+02/22/2016 10:29:35 PM - PdfToPptx - INFO - Checking file - a_1.pdf 
+02/22/2016 10:29:39 PM - PdfToPptx - INFO - Image convert passed - a_1.jpg 
+02/22/2016 10:29:39 PM - PdfToPptx - INFO - Checking file - a_2.pdf 
+02/22/2016 10:29:43 PM - PdfToPptx - INFO - Image convert passed - a_2.jpg 
+02/22/2016 10:29:43 PM - PdfToPptx - INFO - Checking file - a_3.pdf 
+02/22/2016 10:29:46 PM - PdfToPptx - INFO - Image convert passed - a_3.jpg 
+02/22/2016 10:29:46 PM - PdfToPptx - INFO - Checking file - a_4.pdf 
+02/22/2016 10:29:50 PM - PdfToPptx - INFO - Image convert passed - a_4.jpg 
+02/22/2016 10:29:50 PM - PdfToPptx - INFO - Checking file - a_5.pdf 
+02/22/2016 10:29:54 PM - PdfToPptx - INFO - Image convert passed - a_5.jpg 
+02/22/2016 10:29:54 PM - PdfToPptx - INFO - Checking file - a_6.pdf 
+02/22/2016 10:29:58 PM - PdfToPptx - INFO - Image convert passed - a_6.jpg 
+02/22/2016 10:29:58 PM - PdfToPptx - INFO - Checking file - a_7.pdf 
+02/22/2016 10:30:02 PM - PdfToPptx - INFO - Image convert passed - a_7.jpg 
+02/22/2016 10:30:02 PM - PdfToPptx - INFO - Checking file - a_8.pdf 
+02/22/2016 10:30:05 PM - PdfToPptx - INFO - Image convert passed - a_8.jpg 
+02/22/2016 10:30:05 PM - PdfToPptx - INFO - Checking file - a_9.pdf 
+02/22/2016 10:30:12 PM - PdfToPptx - INFO - Image convert passed - a_9.jpg 
+02/22/2016 10:30:12 PM - PdfToPptx - INFO - Checking file - a_10.pdf 
+02/22/2016 10:30:21 PM - PdfToPptx - INFO - Image convert passed - a_10.jpg 
+02/22/2016 10:30:21 PM - PdfToPptx - INFO - Called create_ppt
+02/22/2016 10:30:21 PM - PdfToPptx - DEBUG - a_1.jpg
+02/22/2016 10:30:22 PM - PdfToPptx - DEBUG - a_2.jpg
+02/22/2016 10:30:22 PM - PdfToPptx - DEBUG - a_3.jpg
+02/22/2016 10:30:22 PM - PdfToPptx - DEBUG - a_4.jpg
+02/22/2016 10:30:22 PM - PdfToPptx - DEBUG - a_5.jpg
+02/22/2016 10:30:23 PM - PdfToPptx - DEBUG - a_6.jpg
+02/22/2016 10:30:23 PM - PdfToPptx - DEBUG - a_7.jpg
+02/22/2016 10:30:23 PM - PdfToPptx - DEBUG - a_8.jpg
+02/22/2016 10:30:23 PM - PdfToPptx - DEBUG - a_9.jpg
+02/22/2016 10:30:24 PM - PdfToPptx - DEBUG - a_10.jpg
+02/22/2016 10:30:24 PM - PdfToPptx - INFO - Done ppt conversion
+02/22/2016 10:35:49 PM - PdfToPptx - DEBUG - a.pdf 
+ a.pdf
+02/22/2016 10:35:49 PM - PdfToPptx - INFO - Calling the main execution for ppt conversion
+02/22/2016 10:35:49 PM - PdfToPptx - INFO - Called pdf_splitter
+02/22/2016 10:36:50 PM - PdfToPptx - DEBUG - a.pdf 
+ a.pptx
+02/22/2016 10:36:50 PM - PdfToPptx - INFO - Calling the main execution for ppt conversion
+02/22/2016 10:36:50 PM - PdfToPptx - INFO - Called pdf_splitter
+02/22/2016 10:36:50 PM - PdfToPptx - INFO - Checking file - a_1.pdf 
+02/22/2016 10:36:54 PM - PdfToPptx - INFO - Image convert passed - a_1.jpg 
+02/22/2016 10:36:54 PM - PdfToPptx - INFO - Checking file - a_2.pdf 
+02/22/2016 10:36:57 PM - PdfToPptx - INFO - Image convert passed - a_2.jpg 
+02/22/2016 10:36:58 PM - PdfToPptx - INFO - Checking file - a_3.pdf 
+02/22/2016 10:37:01 PM - PdfToPptx - INFO - Image convert passed - a_3.jpg 
+02/22/2016 10:37:01 PM - PdfToPptx - INFO - Checking file - a_4.pdf 
+02/22/2016 10:37:05 PM - PdfToPptx - INFO - Image convert passed - a_4.jpg 
+02/22/2016 10:37:05 PM - PdfToPptx - INFO - Checking file - a_5.pdf 
+02/22/2016 10:37:09 PM - PdfToPptx - INFO - Image convert passed - a_5.jpg 
+02/22/2016 10:37:09 PM - PdfToPptx - INFO - Checking file - a_6.pdf 
+02/22/2016 10:37:13 PM - PdfToPptx - INFO - Image convert passed - a_6.jpg 
+02/22/2016 10:37:13 PM - PdfToPptx - INFO - Checking file - a_7.pdf 
+02/22/2016 10:37:16 PM - PdfToPptx - INFO - Image convert passed - a_7.jpg 
+02/22/2016 10:37:16 PM - PdfToPptx - INFO - Checking file - a_8.pdf 
+02/22/2016 10:37:20 PM - PdfToPptx - INFO - Image convert passed - a_8.jpg 
+02/22/2016 10:37:20 PM - PdfToPptx - INFO - Checking file - a_9.pdf 
+02/22/2016 10:37:24 PM - PdfToPptx - INFO - Image convert passed - a_9.jpg 
+02/22/2016 10:37:24 PM - PdfToPptx - INFO - Checking file - a_10.pdf 
+02/22/2016 10:37:27 PM - PdfToPptx - INFO - Image convert passed - a_10.jpg 
+02/22/2016 10:37:27 PM - PdfToPptx - INFO - Called create_ppt
+02/22/2016 10:37:27 PM - PdfToPptx - DEBUG - a_1.jpg
+02/22/2016 10:37:27 PM - PdfToPptx - DEBUG - a_2.jpg
+02/22/2016 10:37:28 PM - PdfToPptx - DEBUG - a_3.jpg
+02/22/2016 10:37:28 PM - PdfToPptx - DEBUG - a_4.jpg
+02/22/2016 10:37:28 PM - PdfToPptx - DEBUG - a_5.jpg
+02/22/2016 10:37:28 PM - PdfToPptx - DEBUG - a_6.jpg
+02/22/2016 10:37:28 PM - PdfToPptx - DEBUG - a_7.jpg
+02/22/2016 10:37:28 PM - PdfToPptx - DEBUG - a_8.jpg
+02/22/2016 10:37:28 PM - PdfToPptx - DEBUG - a_9.jpg
+02/22/2016 10:37:29 PM - PdfToPptx - DEBUG - a_10.jpg
+02/22/2016 10:37:29 PM - PdfToPptx - INFO - Done ppt conversion
+02/23/2016 09:41:40 AM - PdfToPptx - DEBUG - a.pdf 
+ a.pptx
+02/23/2016 09:41:40 AM - PdfToPptx - INFO - Calling the main execution for ppt conversion
+02/23/2016 09:41:40 AM - PdfToPptx - INFO - Called pdf_splitter
+02/23/2016 09:41:40 AM - PdfToPptx - INFO - Checking file - a_1.pdf 
+02/23/2016 09:41:41 AM - PdfToPptx - INFO - Image convert passed - a_1.jpg 
+02/23/2016 09:41:41 AM - PdfToPptx - INFO - Checking file - a_2.pdf 
+02/23/2016 09:41:42 AM - PdfToPptx - INFO - Image convert passed - a_2.jpg 
+02/23/2016 09:41:42 AM - PdfToPptx - INFO - Checking file - a_3.pdf 
+02/23/2016 09:41:43 AM - PdfToPptx - INFO - Image convert passed - a_3.jpg 
+02/23/2016 09:41:43 AM - PdfToPptx - INFO - Checking file - a_4.pdf 
+02/23/2016 09:41:44 AM - PdfToPptx - INFO - Image convert passed - a_4.jpg 
+02/23/2016 09:41:44 AM - PdfToPptx - INFO - Checking file - a_5.pdf 
+02/23/2016 09:41:45 AM - PdfToPptx - INFO - Image convert passed - a_5.jpg 
+02/23/2016 09:41:45 AM - PdfToPptx - INFO - Checking file - a_6.pdf 
+02/23/2016 09:41:46 AM - PdfToPptx - INFO - Image convert passed - a_6.jpg 
+02/23/2016 09:41:46 AM - PdfToPptx - INFO - Checking file - a_7.pdf 
+02/23/2016 09:41:47 AM - PdfToPptx - INFO - Image convert passed - a_7.jpg 
+02/23/2016 09:41:47 AM - PdfToPptx - INFO - Checking file - a_8.pdf 
+02/23/2016 09:41:48 AM - PdfToPptx - INFO - Image convert passed - a_8.jpg 
+02/23/2016 09:41:48 AM - PdfToPptx - INFO - Checking file - a_9.pdf 
+02/23/2016 09:41:48 AM - PdfToPptx - INFO - Image convert passed - a_9.jpg 
+02/23/2016 09:41:48 AM - PdfToPptx - INFO - Checking file - a_10.pdf 
+02/23/2016 09:41:49 AM - PdfToPptx - INFO - Image convert passed - a_10.jpg 
+02/23/2016 09:41:49 AM - PdfToPptx - INFO - Called create_ppt
+02/23/2016 09:41:49 AM - PdfToPptx - DEBUG - a_1.jpg
+02/23/2016 09:41:49 AM - PdfToPptx - DEBUG - a_2.jpg
+02/23/2016 09:41:49 AM - PdfToPptx - DEBUG - a_3.jpg
+02/23/2016 09:41:49 AM - PdfToPptx - DEBUG - a_4.jpg
+02/23/2016 09:41:49 AM - PdfToPptx - DEBUG - a_5.jpg
+02/23/2016 09:41:49 AM - PdfToPptx - DEBUG - a_6.jpg
+02/23/2016 09:41:49 AM - PdfToPptx - DEBUG - a_7.jpg
+02/23/2016 09:41:49 AM - PdfToPptx - DEBUG - a_8.jpg
+02/23/2016 09:41:50 AM - PdfToPptx - DEBUG - a_9.jpg
+02/23/2016 09:41:50 AM - PdfToPptx - DEBUG - a_10.jpg
+02/23/2016 09:41:50 AM - PdfToPptx - INFO - Done ppt conversion
