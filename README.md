@@ -2,7 +2,7 @@
 
 cd ppt-pdf
 
-python cli_pdf_to_ppt.py a.pdf
+python cli_pdf_to_ppt.py test.pdf
 
 
-tested in ubuntu Linux
+tested in ubuntu 14 (Linux)
