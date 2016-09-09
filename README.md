@@ -2,7 +2,8 @@
 
 cd ppt-pdf
 
-python cli_pdf_to_ppt.py test.pdf
+python   cli_pdf_to_ppt.py   test.pdf
 
+output file will be created in the name 
 
 tested in ubuntu 14 (Linux)
